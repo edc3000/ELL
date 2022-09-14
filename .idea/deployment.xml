@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@hz-t3.matpool.com:29094 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@hz-4.matpool.com:26161 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:27305 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:27404 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:27537 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:29770 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:27755 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:28886 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29094 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:26641 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_24" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:26653 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ELL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
